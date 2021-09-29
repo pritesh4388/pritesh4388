@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pritesh4388
+- 👋 Hi, I’m @Pritesh Patel
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Basics of data Science
 - 📫 Reach me at pritesh43882yahoo.com
