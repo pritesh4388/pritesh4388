@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pritesh Patel
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Basics of data Science
 - 📫 Reach me at pritesh43882yahoo.com
 
